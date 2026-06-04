@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+.eclipse/
+.settings/
+.project
+.classpath
+*.log
+screenshots/
+reports/
